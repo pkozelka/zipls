@@ -1,3 +1,4 @@
+I want this build to fail
 package net.kozelka.zip;
 
 import java.io.PrintStream;
