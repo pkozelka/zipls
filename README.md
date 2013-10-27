@@ -1,6 +1,4 @@
-[![Build Status](https://travis-ci.org/pkozelka/zipls.png?branch=master)](https://travis-ci.org/pkozelka/zipls)
-
-# zipls
+# zipls [![Build Status](https://travis-ci.org/pkozelka/zipls.png)](https://travis-ci.org/pkozelka/zipls)
 
 Simple tool for deep-listing zip files containing other zip files - useful for fast content comparison.
 
